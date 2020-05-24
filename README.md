@@ -7,6 +7,7 @@
 # In main function,we created instances for  these struct(url and product) and gave required information
 # By using Marshall (For encoding json data we can use Marshall) encode jason data in to another variable(byArray)
 # print that variable in string format
+# Using Powershell we can run the file using below code
 # Code for run go file is "go run filename.go"(go run assignment.go)
 # Next printed these json response in text file using following code
 # creating  response text file
